@@ -1,0 +1,96 @@
+body{
+background-color: rgb(240, 238, 239);
+margin: 0%;
+}
+
+#navbar{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content:space-between;
+width: 94.9%;
+height: 13vh;
+background-color: rgb(7, 6, 6);
+   
+}
+ #logo{
+display: flex; 
+color: rgb(8, 184, 184);
+flex-direction: column;
+margin: 20px;
+padding: 15PX;
+
+}   
+
+#page{
+display: flex;
+flex-direction: row;
+align-items: center;
+background-color: black;  
+color: rgb(8, 184, 184);
+gap: 9%;
+ width: 25%;
+height: 2vh; 
+margin: 45px;
+padding: 20PX;  
+} 
+.search-bar {
+    
+    align-items: center;
+    background-color:black;
+    border-radius: 38px;
+    overflow: hidden;
+    padding: 25;
+  }
+  
+  .search-input {
+    border: none;
+    outline: none;
+    padding: 15px;
+    font-size: 15px;
+    width: 200px;
+    /* color: white; */
+  }
+.search-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+  } 
+  
+
+  .container{
+    display: flex;
+    width: 85%;
+    height: 55vh;
+    background-color: rgb(8, 17, 14);
+    font-family: sans-serif;
+    
+  }
+
+  #contaxt{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    width: 50%;
+    height: 40vhvh;
+    color: white;
+    background-color: rgb(15, 15, 8);
+  }
+  h1{
+    display: flex;
+    justify-content: space-around;
+  }
+
+  #img{
+    display: flex;
+    width: 40%;
+    height: 40vhvh;
+    color: black;
+    background-color: rgb(27, 27, 7);
+
+  }
+
+
+

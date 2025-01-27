@@ -1,0 +1,57 @@
+ 
+ #maindiv{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(230, 122, 22);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  
+}
+ 
+ h1{
+    display: flex;
+    color:white;
+    justify-content:center;
+    text-align:center;
+    font-style: italic;
+}
+
+ #para1{
+    
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+   
+} 
+
+
+#item2{
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+   
+}
+
+.more{
+    display: block;
+    margin-top: 80px;
+    color: blue;
+    text-decoration: underline;
+}
+
+
+
+.cards{
+    display: inline-block;
+    width: 20%;
+  padding: 15px;
+ margin: 50px; 
+text-align: center;
+height: 35vh; 
+background-color: white;
+}
+
+
+

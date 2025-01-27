@@ -1,0 +1,49 @@
+
+*{
+    margin: 0%;
+    padding:0%;
+    box-sizing: border-box;
+}
+#inputs{
+    width: 50%;
+    height: 40px;
+
+}
+#forms{
+   
+    border: 1px solid black;
+   
+}
+#paragraph{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+#declearation{
+    text-align: center;
+}
+#submitdiv{
+    text-align: center;
+}
+
+
+#introdiv{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 1%;
+}
+
+#addressdiv{
+    display: flex;
+    justify-content:left;
+    align-items: center;
+    gap:1%;             
+}
+ #nationalitydiv{
+    display: flex;
+    justify-content:left;
+    align-items: center;
+    gap:1%;  
+ }
